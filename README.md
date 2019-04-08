@@ -1,2 +1,2 @@
-# self-blog.github-ip
+# self-blog.github-io
 self-blog
